@@ -55,7 +55,7 @@
 <nav>
     <a href="#about">Сайт жонундо</a>
     <a href="#portfolio">:ДЕМИЛГЕ</a>
-    <a href="#contact">Контакты</a>
+    <a href="#contact">БАЙЛАНЫШ ЖОЛДОР</a>
 </nav>
 
 <section id="about">
