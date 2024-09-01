@@ -54,7 +54,7 @@
 
 <nav>
     <a href="#about">Сайт жонундо</a>
-    <a href="#portfolio">Портфолио</a>
+    <a href="#portfolio">:ДЕМИЛГЕ</a>
     <a href="#contact">Контакты</a>
 </nav>
 
