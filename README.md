@@ -53,7 +53,7 @@
 </header>
 
 <nav>
-    <a href="#about">Сайт жонундо</a>
+    <a href="#about">Сайт тууралу</a>
     <a href="#portfolio">:ДЕМИЛГЕ</a>
     <a href="#contact">БАЙЛАНЫШ ЖОЛДОР</a>
 </nav>
