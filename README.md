@@ -55,7 +55,7 @@
 <nav>
     <a href="#about">Сайт тууралу</a>
     <a href="#portfolio">:ДЕМИЛГЕ</a>
-    <a href="#contact">БАЙЛАНЫШ ЖОЛДОР</a>
+    <a href="#contact">ДОЛБООР</a>
 </nav>
 
 <section id="about">
