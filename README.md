@@ -80,7 +80,7 @@
 </section>
 
 <section id="contact">
-    <h2>Контактар</h2>
+    <h2>КООМЧУЛУКТУН ИШ АЛПАРУУСУНА КОШУЛУУГА</h2>
     <p>Байланыш жолдору:</p>
     <ul>
         <li>Email: ccuvakov474@gmail.com</li>
