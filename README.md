@@ -85,7 +85,7 @@
     <ul>
         <li>Email: ccuvakov474@gmail.com</li>
         <li>Телефон: +996 502714611<>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/your-profile">Мээрбек в LinkedIn</a></li>
+        <li>LinkedIn: <a href="https://www.Shoro.com/in/Sonkol|Ytelgi-uya"></a></li>
     </ul>
 </section>
 
